@@ -23,5 +23,3 @@ The dataset is synthetic and simulates customer data from a banking environment.
 - `Membership_Level`: Categorical (Basic, Silver, Gold, Platinum)
 - `Purchase_Frequency`: Average monthly purchases
 - `Churn_Status`: Binary (0 = active, 1 = churned)
-cd customer-churn-segmentation
-pip install -r requirements.txt
